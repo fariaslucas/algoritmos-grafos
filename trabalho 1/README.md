@@ -1,7 +1,9 @@
 # Trabalho 1
 Código para decidir se um determinado grafo é geodético.
 
-O grafo deve ser lido de myfiles/entrada.txt onde os vértices são representados por números. Ex.:
+O grafo deve ser lido de myfiles/entrada.txt onde os vértices são representados por números separados por linha.
+
+## Exemplo de entrada 
 
 ```
 1 = 2 3
